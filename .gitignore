@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+report/.quarto/
+report/*_files/
+report/*.tex
+report/*.log
+*.aux
